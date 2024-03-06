@@ -1,1 +1,3 @@
 # Google_Advanced_Data_Analytics__Course_4_Project__Automatidata_A-B_Testing
+
+The overall scope of the project is to investigate methods to increase revenue for a hypothetical taxi company out of New York. The purpose of this particular task was to complete an A/B test to determine whether there is a relationship between payment type and the average fare amount paid per taxi rider. Upon determining that those who pay with credit cards, on average, have larger total fare amounts, the next step is to find ways to incentivize riders to pay with credit cards over cash, whether through partnerships, points programs or education on its benefits.
